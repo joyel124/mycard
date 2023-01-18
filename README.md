@@ -4,7 +4,7 @@ A new Flutter project for practice.
 
 ## Screenshot
 
-![screenshot]()
+![screenshot](https://raw.githubusercontent.com/joyel124/mycard/master/assets/images/screenshot.png)
 
 ## Getting Started
 
